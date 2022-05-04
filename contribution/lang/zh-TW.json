@@ -3,10 +3,12 @@
  	 	"map": {
  	 	 	"trans": "地圖",
  	 	 	"eng": "Map"
+      "esp":"mapa"
  	 	},
  	 	"inventory": {
  	 	 	"trans": "背包",
  	 	 	"eng": "Inventory"
+      "esp":"Inventario"
  	 	},
  	 	"quest": {
  	 	 	"trans": "任務",
